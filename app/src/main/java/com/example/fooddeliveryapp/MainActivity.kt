@@ -20,8 +20,4 @@ class MainActivity : AppCompatActivity() {
     override fun onDetachedFromWindow() {
         super.onDetachedFromWindow()
     }
-
-    override fun onDestroy() {
-        super.onDestroy()
-    }
 }
